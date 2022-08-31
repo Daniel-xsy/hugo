@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shaoyuan Xie
 
 # Is this the primary user of the site?
 superuser: true
