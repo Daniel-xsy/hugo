@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ccvl.jhu.edu/team/'
     company_logo: johns-hopkins-university-vector-logo
     location: Baltimore, US
-    date_start: June 20, 2021
+    date_start: 'January 2, 2006'
     date_end: ''
     description: |2-
         Research Topic: Multi Modality & Robustness
@@ -37,7 +37,7 @@ experience:
     company_url: 'https://www.hust.edu.cn/'
     company_logo: org-x
     location: Wuhan, China
-    date_start: September 1, 2020
+    date_start: January 2, 2006
     date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
