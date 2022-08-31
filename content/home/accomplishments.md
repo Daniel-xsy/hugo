@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: https://www.comap.com/
     date_end: ''
     date_start: '2022-02-01'
     description: ''
@@ -31,7 +31,7 @@ item:
     organization_url: https://www.comap.com/
     title: Meritorious Winner
     url: ''
-  - certificate_url: 
+  - certificate_url: http://www.moe.gov.cn/
     date_end: ''
     date_start: '2021-10-01'
     description: 'Official highest honor for student in China (Top 0.2%)'
@@ -39,7 +39,7 @@ item:
     organization_url: http://www.moe.gov.cn/
     title: National Scholarship
     url: ''
-  - certificate_url: 
+  - certificate_url: http://www.moe.gov.cn/
     date_end: ''
     date_start: '2020-10-01'
     description: 'Official highest honor for student in China (Top 0.2%)'
@@ -47,7 +47,7 @@ item:
     organization_url: http://www.moe.gov.cn/
     title: National Scholarship
     url: ''
-  - certificate_url: 
+  - certificate_url: https://www.hust.edu.cn/
     date_end: ''
     date_start: '2020-12-01'
     description: 'Highest honor for student in HUST'
@@ -55,7 +55,7 @@ item:
     organization_url: 'https://www.hust.edu.cn/'
     title: Outstanding Undergraduate
     url: ''
-  - certificate_url: 
+  - certificate_url: https://www.cms.org.cn/
     date_end: ''
     date_start: '2020-11-01'
     description: ''
