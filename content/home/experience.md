@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: January 2, 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ccvl.jhu.edu/team/'
     company_logo: johns-hopkins-university-vector-logo
     location: Baltimore, US
-    date_start: 'January 2, 2006'
+    date_start: '2022-06-23'
     date_end: ''
     description: |2-
         Research Topic: Multi Modality & Robustness
@@ -37,7 +37,7 @@ experience:
     company_url: 'https://www.hust.edu.cn/'
     company_logo: org-x
     location: Wuhan, China
-    date_start: January 2, 2006
+    date_start: '2020-09-01'
     date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
