@@ -25,16 +25,8 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2022-02-01'
-    description: ''
-    organization: Consortium for Mathematics and Its Applications
-    organization_url: https://www.comap.com/
-    title: Meritorious Winner
-    url: ''
-  - certificate_url: 
-    date_end: ''
     date_start: '2021-10-01'
-    description: 'Official highest honor for student in China (Top 0.2%)'
+    description: 'Highest honor for students in China (Top 0.2%)'
     organization: Ministry of Education of the People's Republic of China
     organization_url: http://www.moe.gov.cn/
     title: National Scholarship
@@ -42,7 +34,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2020-10-01'
-    description: 'Official highest honor for student in China (Top 0.2%)'
+    description: 'Highest honor for students in China (Top 0.2%)'
     organization: Ministry of Education of the People's Republic of China
     organization_url: http://www.moe.gov.cn/
     title: National Scholarship
@@ -50,7 +42,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2020-12-01'
-    description: 'Highest honor for student in HUST'
+    description: 'Highest honor for student at HUST'
     organization: Huazhong University of Science and Technology
     organization_url: 'https://www.hust.edu.cn/'
     title: Outstanding Undergraduate
