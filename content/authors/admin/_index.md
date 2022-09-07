@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Automation
+    - course: BS in Automation
       institution: Huazhong University of Science and Technology
       year: 2019-2023
 

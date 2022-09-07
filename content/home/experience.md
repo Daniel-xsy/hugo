@@ -29,17 +29,18 @@ experience:
     location: Baltimore, US
     date_start: '2022-06-23'
     date_end: ''
-    description: |2-
-        Research Topic: Multi Modality & Robustness
+    description: >-
+        Research Topic: Multi Modality (CLIP) & OOD Robustness
 
   - title: Research Asistant
     company: Huazhong University of Science and Technology
     company_url: 'https://www.hust.edu.cn/'
-    company_logo: org-x
+    company_logo: hust-logo
     location: Wuhan, China
     date_start: '2020-09-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: >-
+        Research Topic: Multi modality adversarial training for 3D point cloud defense
 
 design:
   columns: '2'
