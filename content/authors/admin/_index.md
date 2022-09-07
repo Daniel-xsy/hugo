@@ -45,9 +45,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -56,6 +56,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 3rd-year undergraduate student in [School of Artificial Intelligenceand Automation](http://aia.hust.edu.cn/)  at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I work as a research assistant in Institute for Image Recognition and Artificial Intelligence at HUST, advised by [Yang Xiao](https://scholar.google.com/citations?user=NeKBuXEAAAAJ&hl=zh-CN&oi=ao). I also spent time at [CCVL Lab](https://ccvl.jhu.edu/team/) at [Johns Hopkins University](https://www.jhu.edu/) as a research intern, advised by [Cihang Xie](https://cihangxie.github.io/).
+I'm a 4rd-year undergraduate student in [School of Artificial Intelligenceand Automation](http://aia.hust.edu.cn/)  at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I work as a research assistant in Institute for Image Recognition and Artificial Intelligence at HUST, advised by [Yang Xiao](https://scholar.google.com/citations?user=NeKBuXEAAAAJ&hl=zh-CN&oi=ao). I also spent time at [CCVL Lab](https://ccvl.jhu.edu/team/) at [Johns Hopkins University](https://www.jhu.edu/) as a research intern, advised by [Cihang Xie](https://cihangxie.github.io/).
 
 My research interest includes computer vision, adversarial machine learning.
