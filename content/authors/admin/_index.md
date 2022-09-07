@@ -56,6 +56,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 4rd-year undergraduate student in [School of Artificial Intelligenceand Automation](http://aia.hust.edu.cn/)  at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I work as a research assistant in Institute for Image Recognition and Artificial Intelligence at HUST, advised by [Yang Xiao](https://scholar.google.com/citations?user=NeKBuXEAAAAJ&hl=zh-CN&oi=ao). I also spent time at [CCVL Lab](https://ccvl.jhu.edu/team/) at [Johns Hopkins University](https://www.jhu.edu/) as a research intern, advised by [Cihang Xie](https://cihangxie.github.io/).
+I'm a 4rd-year undergraduate student in [School of Artificial Intelligence and Automation](http://aia.hust.edu.cn/)  at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I work as a research assistant in Institute for Image Recognition and Artificial Intelligence at HUST, advised by [Yang Xiao](https://scholar.google.com/citations?user=NeKBuXEAAAAJ&hl=zh-CN&oi=ao). I also spent time at [CCVL Lab](https://ccvl.jhu.edu/team/) at [Johns Hopkins University](https://www.jhu.edu/) as a research intern, advised by [Cihang Xie](https://cihangxie.github.io/).
 
 My research interest includes computer vision, adversarial machine learning.
