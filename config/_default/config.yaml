@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shaoyuan Xie # Website name
-baseURL: 'https://Daniel-xsy.github.io' # Website URL
+baseURL: 'https://Daniel-xsy.github.io/starter-hugo-academic' # Website URL
 
 ############################
 ## LANGUAGE
